@@ -14,5 +14,5 @@
 		default:
 			echo "No definida ... :'(";
 			break;
-	}	
+	}
 ?>
